@@ -1,3 +1,3 @@
 # TensorFlow_tutorial
 
-Download the Churn analysis CSV file to get started with tensorflow tutorial
+Download the Churn.CSV file to get started with tensorflow tutorial
